@@ -31,7 +31,7 @@ app
     res.json({
       is_success: true,
       user_id: "Shreyas_Nehe",
-      email: "sshreyas.nehe2021@vitstudent.ac.in",
+      email: "shreyas.nehe2021@vitstudent.ac.in",
       roll_number: "21BCE3359",
       numbers: numbers,
       alphabets: alphabets,
